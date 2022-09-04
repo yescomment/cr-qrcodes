@@ -66,5 +66,8 @@
       "destination": "https://xd.adobe.com/view/38850565-3c9c-40a7-b097-e33c1420694a-6dd6/",
       "permanent": false
     }
-  ]
+  ],
+  "github": {
+    "silent": true
+  }
 }
