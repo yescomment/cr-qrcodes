@@ -1,5 +1,16 @@
 {
+  "rewrites": [
+    {
+      "source": "/eugenics",
+      "destination": "/eugenics.html"
+    }
+  ],
   "redirects": [
+    {
+      "source": "/eugenics.html",
+      "destination": "/eugenics",
+      "permanent": true
+    },
     {
       "source": "/",
       "destination": "https://xd.adobe.com/view/9685a8e6-cd48-4e30-8707-299758080b59-c3d6/",
